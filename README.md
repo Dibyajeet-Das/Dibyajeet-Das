@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Dibyajeet-Das/Dibyajeet-Das/blob/main/ni.gif?raw=true" style="width: 100%; height: auto;" />
+  <img src="https://github.com/Dibyajeet-Das/Dibyajeet-Das/blob/main/ni.gif?raw=true" style="width: 100%; max-width: 980px; height: auto;" />
 </div>
+
 
 
 ###
