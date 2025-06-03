@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Dibyajeet-Das/Dibyajeet-Das/blob/main/ni.gif?raw=true" style="width: 100%; max-width: 980px; height: auto;" />
+  <img src="https://github.com/Dibyajeet-Das/Dibyajeet-Das/blob/main/ni.gif?raw=true" style="width: 100%; height: 300px; object-fit: cover;" />
 </div>
 
 
@@ -13,6 +13,10 @@
 <p align="left">🔭 I’m currently working on creating  web based application.  <br>👯 I’m looking to collaborate on full-stack and open-source projects.  <br>🌱 I’m currently learning backend development and cloud deployment.  <br>💬 Ask me about Java, Spring Boot, React, and Django.  <br>⚡ Fun fact: I love mixing logic with creativity to craft great user experiences</p>
 
 ###
+
+
+
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
