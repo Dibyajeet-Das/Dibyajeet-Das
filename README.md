@@ -1,8 +1,7 @@
-<br clear="both">
-
 <div align="center">
-  <img src="https://github.com/Dibyajeet-Das/Dibyajeet-Das/blob/main/no.gif?raw=true" style="width: 100%; height: auto;" />
+  <img src="https://github.com/Dibyajeet-Das/Dibyajeet-Das/blob/main/ni.gif?raw=true" style="width: 100%; height: auto;" />
 </div>
+
 
 ###
 
@@ -63,6 +62,10 @@
 <div align="center">
   <img height="155" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
+
+###
+
+<h4 align="center">"ᴘʀᴏɢʀᴇꜱꜱ ɪꜱ ɴᴏᴛ ᴀʟᴡᴀʏꜱ ᴀʙᴏᴜᴛ ʙɪɢ ʟᴇᴀᴘꜱ; ꜱᴏᴍᴇᴛɪᴍᴇꜱ ɪᴛ'ꜱ ᴀʙᴏᴜᴛ ᴛʜᴇ ꜱᴍᴀʟʟ, ᴄᴏɴꜱɪꜱᴛᴇɴᴛ ꜱᴛᴇᴘꜱ ꜰᴏʀᴡᴀʀᴅ."</h4>
 
 ###
 
