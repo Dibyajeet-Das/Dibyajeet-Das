@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on creating  web based application.  <br>👯 I’m looking to collaborate on full-stack and open-source projects.  <br>🌱 I’m currently learning backend development and cloud deployment.  <br>💬 Ask me about Java, Spring Boot, React, and Django.  <br>⚡ Fun fact: I love mixing logic with creativity to craft great user experiences</p>
+<p align="left">🔭 I’m currently working on creating  web based application.
+  &nbsp;
+  <br>👯 I’m looking to collaborate on full-stack and open-source projects.
+  &nbsp;
+  <br>🌱 I’m currently learning backend development and cloud deployment.
+  &nbsp;
+  <br>💬 Ask me about Java, Spring Boot, React, and Django.
+  &nbsp;
+  <br>⚡ Fun fact: I love mixing logic with creativity to craft great user experiences</p>
 
 ###
 
