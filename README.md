@@ -6,17 +6,24 @@
 
 ###
 
-<h1 align="left">Hi Everyone👋! My name is Dibyajeet Das and I am a Full Stack Web developer</h1>
+<h1 align="left">
+  Hi Everyone👋! My name is Dibyajeet Das and I am a  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00E6FF&center=false&vCenter=false&width=450&lines=Full+Stack+Web+Developer;Software+Engineer;Backend+Engineer;Frontend+Engineer" alt="Typing Animation" />
+</h1>
+
+<span style="color:#ff4d4d; font-family:'Noto Serif JP'; font-size:32px; font-weight:bold;">
+  こんにちは、私の名前はディビヤジートです。そして、ソフトウェアエンジニアです。
+</span>
 
 ###
 
-<p align="left">🔭 I’m currently working on creating  web based application.
+<p align="left">🔭 I’m currently working on creating web based application.
   &nbsp;
   <br>👯 I’m looking to collaborate on full-stack and open-source projects.
   &nbsp;
   <br>🌱 I’m currently learning backend development and cloud deployment.
   &nbsp;
-  <br>💬 Ask me about Java, Spring Boot, React, and Django.
+  <br>💬 Ask me about Java and Spring Boot.
   &nbsp;
   <br>⚡ Fun fact: I love mixing logic with creativity to craft great user experiences</p>
 
