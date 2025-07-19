@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00E6FF&center=false&vCenter=false&width=450&lines=Full+Stack+Web+Developer;Software+Engineer;Backend+Engineer;Frontend+Engineer" alt="Typing Animation" />
 </h1>
 
-<span style="color:#ff4d4d; font-family:'Noto Serif JP'; font-size:32px; font-weight:bold;">
+<span style="color:#ff4d4d; font-family:'Noto Serif JP'; font-size:42px; font-weight:bold;">
   こんにちは、私の名前はディビヤジートです。そして、ソフトウェアエンジニアです。
 </span>
 
